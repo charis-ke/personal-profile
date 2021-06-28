@@ -1,5 +1,30 @@
-{
+h1{
     font-weight: bolder;
-    height: 30px;
-    width: 40 px;
+text-align: left;
+font-size: large;
+align-content: center!important;
+color:white;
+font-size: 40px;
 }
+.My-info{
+    margin-top: 60px;
+    box-sizing: border-box;
+}
+.whatever{
+    font-weight: 400;
+    margin-bottom: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 90px;
+    box-sizing: border-box;
+    line-height: 1;
+    color: white;
+}
+.h3{font-weight:700;
+color:wheat;
+text-align: center;}
+i{font-weight:bold;
+    color:black;
+    text-align: center;}
+p{color: white;}
+
+.container{color:crimsong;}
